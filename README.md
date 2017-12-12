@@ -19,4 +19,26 @@ CSDN博客迁移至Hexo,同步CSDN博文到本地MD文件。
 
 >效果
 
-![首页展示](https://github.com/csccoder/csdn2Hexomd/raw/master/src/main/resources/static/images/img/index.png)
+`运行效果`
+![运行效果](https://github.com/csccoder/csdn2Hexomd/raw/master/src/main/resources/img/run_out.png)
+
+`生成文件夹结构`
+![生成文件夹结构](https://github.com/csccoder/csdn2Hexomd/raw/master/src/main/resources/img/dir_0.png)
+
+`文件夹结构之html目录 存放从CSDN博客爬下来的HTML格式文章`
+![文件夹结构之html目录](https://github.com/csccoder/csdn2Hexomd/raw/master/src/main/resources/img/dir_html.png)
+
+`文件夹结构之md目录   存放markdown格式文章，是由html目录下的html文章转化生成的`
+![文件夹结构之md目录](https://github.com/csccoder/csdn2Hexomd/raw/master/src/main/resources/img/dir_html.png)
+
+`html格式文章详图`
+![html格式文章详图](https://github.com/csccoder/csdn2Hexomd/raw/master/src/main/resources/img/html_detail.png)
+
+`markdown格式文章详图`
+![markdown格式文章详图](https://github.com/csccoder/csdn2Hexomd/raw/master/src/main/resources/img/markdown_detail.png)
+
+`CSDN博客截图`
+![CSDN博客截图](https://github.com/csccoder/csdn2Hexomd/raw/master/src/main/resources/img/blog_csdn.png)
+
+`Hexo博客截图`
+![Hexo博客截图](https://github.com/csccoder/csdn2Hexomd/raw/master/src/main/resources/img/blog_hexo.png)
